@@ -16,3 +16,9 @@ slprj/
 # OS junk
 .DS_Store
 Thumbs.db
+
+paper/
+
+/hardware/mecanum_controller/.metadata/
+
+resources/project/
