@@ -1,0 +1,6 @@
+../Hiwonder/Misc/syscall.c:37:7:_sys_command_string	1
+../Hiwonder/Misc/syscall.c:42:6:_sys_exit	1
+../Hiwonder/Misc/syscall.c:47:6:_ttywrch	1
+../Hiwonder/Misc/syscall.c:50:5:stdin_getchar	1
+../Hiwonder/Misc/syscall.c:55:5:stderr_putchar	1
+../Hiwonder/Misc/syscall.c:62:5:stdout_putchar	1

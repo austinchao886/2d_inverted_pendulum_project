@@ -1,0 +1,4 @@
+../Hiwonder/System/checksum.c:103:10:checksum_sum	2
+../Hiwonder/System/checksum.c:112:10:checksum_xor	2
+../Hiwonder/System/checksum.c:126:10:checksum_crc8	2
+../Hiwonder/System/checksum.c:136:10:checksum_crc16	2

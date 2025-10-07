@@ -1,0 +1,17 @@
+../Core/Src/freertos.c:316:6:vApplicationIdleHook	1
+../Core/Src/freertos.c:331:6:vApplicationTickHook	1
+../Core/Src/freertos.c:347:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:468:6:StartDefaultTask	1
+../Core/Src/freertos.c:485:13:imu_task_entry	1
+../Core/Src/freertos.c:502:13:packet_tx_task_entry	1
+../Core/Src/freertos.c:519:13:packet_rx_task_entry	1
+../Core/Src/freertos.c:536:13:sbus_rx_task_entry	1
+../Core/Src/freertos.c:553:13:gui_task_entry	1
+../Core/Src/freertos.c:571:13:app_task_entry	1
+../Core/Src/freertos.c:630:13:bluetooth_task_entry	1
+../Core/Src/freertos.c:642:13:button_timer_callback	1
+../Core/Src/freertos.c:650:13:led_timer_callback	1
+../Core/Src/freertos.c:658:13:lvgl_timer_callback	1
+../Core/Src/freertos.c:666:13:buzzer_timer_callback	1
+../Core/Src/freertos.c:674:13:battery_check_timer_callback	1
+../Core/Src/freertos.c:682:13:IMU_read_timer_callback	1
